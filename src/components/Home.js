@@ -11,7 +11,7 @@ function Home() {
             <About />
             <Menu />
             <Contact />
-            <Footer />
+            {/* <Footer /> */}
         </>
     );
 }

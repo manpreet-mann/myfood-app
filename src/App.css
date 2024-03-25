@@ -175,3 +175,24 @@ h5 {
   background-color: rgba(28, 7, 68, 0.5);
   margin-left: 30px;
 }
+
+/* @media screen and (max-width: 480px) {
+  .menu{
+    grid-template-columns: 100%;
+    margin: 1rem;
+  }
+  .about{
+    grid-template-columns: 100%;
+    margin: 1rem;
+    padding: 0.5rem;
+  }
+  .about img{
+    width: 100%;
+  }
+  .menu img{
+    width: 100%;
+  }
+  .header ul:nth-child(2){
+    display: none;
+  }
+} */

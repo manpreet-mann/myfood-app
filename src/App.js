@@ -23,6 +23,7 @@ function App() {
         {/* <Poster /> */}
         {/* <Footer /> */}
       </Routes>
+      <Footer/>
     </BrowserRouter>
   );
 }
