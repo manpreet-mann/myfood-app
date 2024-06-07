@@ -3,7 +3,7 @@ function About() {
     return (
         <div className="about">
         <div className="about-img">
-                <img src="https://www.w3schools.com/w3images/tablesetting2.jpg" />
+                <img src="/images/about.png" />
                 </div>
             <div className="content">
                 <h1>About Catering</h1>

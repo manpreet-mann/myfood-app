@@ -4,8 +4,8 @@ function Header() {
     return (
         <div className="header">
             <ul>
-                <li>
-                    <Link to='/'>Gourmet au Catering</Link>
+                <li className="header-left">
+                    <Link to='/'>Catering</Link>
                 </li>
             </ul>
             <ul className="header-right">

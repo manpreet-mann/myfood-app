@@ -8,9 +8,11 @@ function Home() {
     return (
         <>
             <Poster />
+            <div className="main-content">
             <About />
             <Menu />
             <Contact />
+            </div>
             {/* <Footer /> */}
         </>
     );

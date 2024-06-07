@@ -16,7 +16,7 @@ function Menu() {
                 <p>With syrup, butter and lots of berries 8.50</p>
             </div>
             <div className="menu-image">
-                <img src="https://www.w3schools.com/w3images/tablesetting.jpg"></img>
+                <img src="/images/menu.png"></img>
             </div>
         </div>
     );
